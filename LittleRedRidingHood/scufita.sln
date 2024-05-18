@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scufita", "scufita.csproj", "{F74DB481-9ED3-40AD-9C7F-38D4016B638A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F74DB481-9ED3-40AD-9C7F-38D4016B638A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74DB481-9ED3-40AD-9C7F-38D4016B638A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74DB481-9ED3-40AD-9C7F-38D4016B638A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74DB481-9ED3-40AD-9C7F-38D4016B638A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11BEA1DC-9DFF-40AE-BC48-CBBB1F4DC1C0}
+	EndGlobalSection
+EndGlobal
