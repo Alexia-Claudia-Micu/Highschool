@@ -1,11 +1,11 @@
-![Image](DemoImage/StartScreen.jpeg)
+![Image](DemoImages/StartScreen.jpeg)
 
-![Image](DemoImage/MapView.jpeg)
-
-
-![Image](DemoImage/PauseScreen.jpeg)
+![Image](DemoImages/MapView.jpeg)
 
 
-![Image](DemoImage/LevelCompletedScreen.jpeg)
+![Image](DemoImages/PauseScreen.jpeg)
+
+
+![Image](DemoImages/LevelCompletedScreen.jpeg)
 
 
