@@ -1,2 +1,2 @@
-![Project Logo](Render/r1.jpeg)
+![Project Logo](r1.jpeg)
 
