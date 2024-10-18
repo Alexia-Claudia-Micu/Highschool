@@ -1,2 +1,2 @@
-![Project Logo](DemoImages/imag1.png)
-![Project Logo](DemoImages/imag2.png)
+![Project Logo](DemoImages/imag1.jpeg)
+![Project Logo](DemoImages/imag2.jpeg)
